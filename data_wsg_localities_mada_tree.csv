@@ -1,0 +1,483 @@
+tree,species,latin_binomial,family,region,village,lat,lon,wsg
+001_Bealanana,Trophis montana (Leandri) C.C. Berg,Trophis montana,Moraceae,Bealanana,Analila,-14.453611,49.046389,0.584
+002_Bealanana,Trophis montana (Leandri) C.C. Berg,Trophis montana,Moraceae,Bealanana,Analila,-14.453611,49.046389,0.562
+003_Bealanana,Bathiorhamnus sp. Capuron,Bathiorhamnus sp.,Rhamnaceae,Bealanana,Analila,-14.453611,49.046389,0.571
+004_Bealanana,Trophis montana (Leandri) C.C. Berg,Trophis montana,Moraceae,Bealanana,Analila,-14.453611,49.046389,0.685
+005_Bealanana,Trophis montana (Leandri) C.C. Berg,Trophis montana,Moraceae,Bealanana,Analila,-14.453611,49.046389,0.649
+006_Bealanana,Aphloia theiformis (Val.) Benn.,Aphloia theiformis,Aphloiaceae,Bealanana,Analila,-14.453611,49.046389,0.627
+007_Bealanana,Aphloia theiformis (Val.) Benn.,Aphloia theiformis,Aphloiaceae,Bealanana,Analila,-14.453611,49.046389,0.568
+008_Bealanana,Aphloia theiformis (Val.) Benn.,Aphloia theiformis,Aphloiaceae,Bealanana,Analila,-14.453611,49.046389,0.663
+009_Bealanana,Aphloia theiformis (Val.) Benn.,Aphloia theiformis,Aphloiaceae,Bealanana,Analila,-14.453611,49.046389,0.611
+010_Bealanana,Aphloia theiformis (Val.) Benn.,Aphloia theiformis,Aphloiaceae,Bealanana,Analila,-14.453611,49.046389,0.585
+011_Bealanana,Aphloia theiformis (Val.) Benn.,Aphloia theiformis,Aphloiaceae,Bealanana,Analila,-14.453611,49.046389,0.638
+012_Bealanana,Anthocleista madagascariensis Baker,Anthocleista madagascariensis,Gentianaceae,Bealanana,Analila,-14.453611,49.046389,0.788
+013_Bealanana,Anthocleista madagascariensis Baker,Anthocleista madagascariensis,Gentianaceae,Bealanana,Analila,-14.453611,49.046389,0.848
+014_Bealanana,Anthocleista madagascariensis Baker,Anthocleista madagascariensis,Gentianaceae,Bealanana,Analila,-14.453611,49.046389,0.807
+015_Bealanana,Anthocleista madagascariensis Baker,Anthocleista madagascariensis,Gentianaceae,Bealanana,Analila,-14.453611,49.046389,0.784
+016_Bealanana,Anthocleista madagascariensis Baker,Anthocleista madagascariensis,Gentianaceae,Bealanana,Analila,-14.453611,49.046389,0.727
+017_Bealanana,Anthocleista madagascariensis Baker,Anthocleista madagascariensis,Gentianaceae,Bealanana,Analila,-14.453611,49.046389,0.827
+018_Bealanana,Anthocleista madagascariensis Baker,Anthocleista madagascariensis,Gentianaceae,Bealanana,Analila,-14.453611,49.046389,0.764
+019_Bealanana,Anthocleista madagascariensis Baker,Anthocleista madagascariensis,Gentianaceae,Bealanana,Analila,-14.453611,49.046389,0.785
+020_Bealanana,Anthocleista madagascariensis Baker,Anthocleista madagascariensis,Gentianaceae,Bealanana,Analila,-14.453611,49.046389,0.829
+021_Bealanana,Croton mongue Baill.,Croton mongue,Euphorbiaceae,Bealanana,Analila,-14.453611,49.046389,0.527
+022_Bealanana,Croton argyrodaphne Baill.,Croton argyrodaphne,Euphorbiaceae,Bealanana,Analila,-14.453611,49.046389,0.658
+023_Bealanana,Croton argyrodaphne Baill.,Croton argyrodaphne,Euphorbiaceae,Bealanana,Analila,-14.453611,49.046389,0.716
+024_Bealanana,Croton sp. L.,Croton sp.,Euphorbiaceae,Bealanana,Analila,-14.453611,49.046389,0.353
+025_Bealanana,Croton argyrodaphne Baill.,Croton argyrodaphne,Euphorbiaceae,Bealanana,Analila,-14.453611,49.046389,0.668
+026_Bealanana,Croton argyrodaphne Baill.,Croton argyrodaphne,Euphorbiaceae,Bealanana,Analila,-14.453611,49.046389,0.629
+027_Bealanana,Croton sp. L.,Croton sp.,Euphorbiaceae,Bealanana,Analila,-14.453611,49.046389,0.379
+028_Bealanana,Croton argyrodaphne Baill.,Croton argyrodaphne,Euphorbiaceae,Bealanana,Analila,-14.453611,49.046389,0.611
+029_Bealanana,Croton sp. L.,Croton sp.,Euphorbiaceae,Bealanana,Analila,-14.453611,49.046389,0.39
+030_Bealanana,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Bealanana,Analila,-14.453611,49.046389,0.6
+031_Bealanana,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Bealanana,Analila,-14.453611,49.046389,0.587
+032_Bealanana,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Bealanana,Analila,-14.453611,49.046389,0.601
+033_Bealanana,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Bealanana,Analila,-14.453611,49.046389,0.617
+034_Bealanana,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Bealanana,Analila,-14.453611,49.046389,0.55
+035_Bealanana,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Bealanana,Analila,-14.453611,49.046389,0.538
+036_Bealanana,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Bealanana,Analila,-14.453611,49.046389,0.533
+037_Bealanana,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Bealanana,Analila,-14.453611,49.046389,0.55
+038_Bealanana,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Bealanana,Analila,-14.453611,49.046389,0.573
+039_Bealanana,Rhus tarantana (Baker) H. Perrier,Rhus tarantana,Anacardiaceae,Bealanana,Analila,-14.453611,49.046389,0.587
+040_Bealanana,Eugenia sp. L.,Eugenia sp.,Myrtaceae,Bealanana,Analila,-14.453611,49.046389,0.654
+041_Bealanana,Eugenia bernieri Drake,Eugenia bernieri,Myrtaceae,Bealanana,Analila,-14.453611,49.046389,0.552
+042_Bealanana,Eugenia emirnensis Baker,Eugenia emirnensis,Myrtaceae,Bealanana,Analila,-14.453611,49.046389,0.579
+043_Bealanana,Colea sp. Bojer ex Meisn.,Colea sp.,Bignoniaceae,Bealanana,Analila,-14.453611,49.046389,0.769
+044_Bealanana,Colea sp. Bojer ex Meisn.,Colea sp.,Bignoniaceae,Bealanana,Analila,-14.453611,49.046389,0.762
+045_Bealanana,Eugenia emirnensis Baker,Eugenia emirnensis,Myrtaceae,Bealanana,Analila,-14.453611,49.046389,0.539
+046_Bealanana,Eugenia bernieri Drake,Eugenia bernieri,Myrtaceae,Bealanana,Analila,-14.453611,49.046389,0.54
+047_Bealanana,Cryptocarya sp. R. Br.,Cryptocarya sp.,Lauraceae,Bealanana,Analila,-14.453611,49.046389,0.534
+048_Bealanana,Doratoxylon sp. Thouars ex Hook. f.,Doratoxylon sp.,Sapindaceae,Bealanana,Analila,-14.453611,49.046389,0.785
+049_Bealanana,Mammea bongo (R. Vig. & Humbert) Kosterm,Mammea bongo,Calophyllaceae,Bealanana,Analila,-14.453611,49.046389,0.672
+050_Bealanana,Mammea bongo (R. Vig. & Humbert) Kosterm,Mammea bongo,Calophyllaceae,Bealanana,Analila,-14.453611,49.046389,0.772
+051_Bealanana,Mammea bongo (R. Vig. & Humbert) Kosterm,Mammea bongo,Calophyllaceae,Bealanana,Analila,-14.453611,49.046389,0.799
+052_Bealanana,Mammea bongo (R. Vig. & Humbert) Kosterm,Mammea bongo,Calophyllaceae,Bealanana,Analila,-14.453611,49.046389,0.811
+053_Bealanana,Mammea bongo (R. Vig. & Humbert) Kosterm,Mammea bongo,Calophyllaceae,Bealanana,Analila,-14.453611,49.046389,0.76
+054_Bealanana,Mammea bongo (R. Vig. & Humbert) Kosterm,Mammea bongo,Calophyllaceae,Bealanana,Analila,-14.453611,49.046389,0.772
+055_Bealanana,Mammea bongo (R. Vig. & Humbert) Kosterm,Mammea bongo,Calophyllaceae,Bealanana,Analila,-14.453611,49.046389,0.802
+056_Bealanana,Mammea bongo (R. Vig. & Humbert) Kosterm,Mammea bongo,Calophyllaceae,Bealanana,Analila,-14.453611,49.046389,0.764
+057_Bealanana,Mammea bongo (R. Vig. & Humbert) Kosterm,Mammea bongo,Calophyllaceae,Bealanana,Analila,-14.453611,49.046389,0.768
+058_Bealanana,Noronhia linocerioides H. Perrier,Noronhia linocerioides,Oleaceae,Bealanana,Analila,-14.453611,49.046389,0.79
+059_Bealanana,Noronhia linocerioides H. Perrier,Noronhia linocerioides,Oleaceae,Bealanana,Analila,-14.453611,49.046389,0.799
+060_Bealanana,Noronhia linocerioides H. Perrier,Noronhia linocerioides,Oleaceae,Bealanana,Analila,-14.453611,49.046389,0.798
+061_Bealanana,Noronhia linocerioides H. Perrier,Noronhia linocerioides,Oleaceae,Bealanana,Analila,-14.453611,49.046389,0.83
+062_Bealanana,Noronhia linocerioides H. Perrier,Noronhia linocerioides,Oleaceae,Bealanana,Analila,-14.453611,49.046389,0.708
+063_Bealanana,Tisonia coriacea Scott-Elliot,Tisonia coriacea,Salicaceae,Bealanana,Analila,-14.453611,49.046389,0.752
+064_Bealanana,Oncostemum sp. A. Juss,Oncostemum sp.,Primulaceae,Bealanana,Analila,-14.453611,49.046389,0.536
+065_Bealanana,Oncostemum sp. A. Juss,Oncostemum sp.,Primulaceae,Bealanana,Analila,-14.453611,49.046389,0.462
+066_Bealanana,Oncostemum sp. A. Juss,Oncostemum sp.,Primulaceae,Bealanana,Analila,-14.453611,49.046389,0.518
+067_Bealanana,Oncostemum sp. A. Juss,Oncostemum sp.,Primulaceae,Bealanana,Analila,-14.453611,49.046389,0.527
+068_Bealanana,Cryptocarya crassifolia Baker,Cryptocarya crassifolia,Lauraceae,Bealanana,Analila,-14.453611,49.046389,0.581
+069_Bealanana,Cryptocarya crassifolia Baker,Cryptocarya crassifolia,Lauraceae,Bealanana,Analila,-14.453611,49.046389,0.604
+070_Bealanana,Cryptocarya acuminata Merr.,Cryptocarya acuminata,Lauraceae,Bealanana,Analila,-14.453611,49.046389,0.526
+071_Bealanana,Cryptocarya crassifolia Baker,Cryptocarya crassifolia,Lauraceae,Bealanana,Analila,-14.453611,49.046389,0.559
+072_Bealanana,Cryptocarya crassifolia Baker,Cryptocarya crassifolia,Lauraceae,Bealanana,Analila,-14.453611,49.046389,0.51
+073_Bealanana,Cryptocarya crassifolia Baker,Cryptocarya crassifolia,Lauraceae,Bealanana,Analila,-14.453611,49.046389,0.49
+074_Bealanana,Cryptocarya acuminata Merr.,Cryptocarya acuminata,Lauraceae,Bealanana,Analila,-14.453611,49.046389,0.499
+075_Bealanana,Cryptocarya acuminata Merr.,Cryptocarya acuminata,Lauraceae,Bealanana,Analila,-14.453611,49.046389,0.523
+076_Bealanana,Cryptocarya acuminata Merr.,Cryptocarya acuminata,Lauraceae,Bealanana,Analila,-14.453611,49.046389,0.516
+001_Fandriana,Calophyllum sp. L.,Calophyllum sp.,Calophyllaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.657
+002_Fandriana,Calophyllum sp. L.,Calophyllum sp.,Calophyllaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.665
+003_Fandriana,Calophyllum sp. L.,Calophyllum sp.,Calophyllaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.614
+004_Fandriana,Calophyllum sp. L.,Calophyllum sp.,Calophyllaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.675
+005_Fandriana,Calophyllum sp. L.,Calophyllum sp.,Calophyllaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.675
+006_Fandriana,Calophyllum sp. L.,Calophyllum sp.,Calophyllaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.668
+007_Fandriana,Calophyllum sp. L.,Calophyllum sp.,Calophyllaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.679
+008_Fandriana,Calophyllum sp. L.,Calophyllum sp.,Calophyllaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.684
+009_Fandriana,Calophyllum sp. L.,Calophyllum sp.,Calophyllaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.677
+010_Fandriana,Campylospermum sp. Tiegh.,Campylospermum sp.,Ochnaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.797
+011_Fandriana,Campylospermum sp. Tiegh.,Campylospermum sp.,Ochnaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.79
+012_Fandriana,Campylospermum sp. Tiegh.,Campylospermum sp.,Ochnaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.764
+013_Fandriana,Campylospermum sp. Tiegh.,Campylospermum sp.,Ochnaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.804
+014_Fandriana,Campylospermum sp. Tiegh.,Campylospermum sp.,Ochnaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.73
+015_Fandriana,Campylospermum sp. Tiegh.,Campylospermum sp.,Ochnaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.764
+016_Fandriana,Canarium sp. L.,Canarium sp.,Burseraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.508
+017_Fandriana,Canarium sp. L.,Canarium sp.,Burseraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.431
+018_Fandriana,Canarium sp. L.,Canarium sp.,Burseraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.423
+019_Fandriana,Canarium sp. L.,Canarium sp.,Burseraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.434
+020_Fandriana,Canarium sp. L.,Canarium sp.,Burseraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.453
+021_Fandriana,Canarium sp. L.,Canarium sp.,Burseraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.357
+022_Fandriana,Canarium sp. L.,Canarium sp.,Burseraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.543
+023_Fandriana,Canarium sp. L.,Canarium sp.,Burseraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.548
+024_Fandriana,Canarium sp. L.,Canarium sp.,Burseraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.553
+025_Fandriana,Cryptocarya sp. R. Br.,Cryptocarya sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.499
+026_Fandriana,Cryptocarya sp. R. Br.,Cryptocarya sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.465
+027_Fandriana,Cryptocarya sp. R. Br.,Cryptocarya sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.388
+028_Fandriana,Cryptocarya sp. R. Br.,Cryptocarya sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.582
+029_Fandriana,Cryptocarya sp. R. Br.,Cryptocarya sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.587
+030_Fandriana,Cryptocarya sp. R. Br.,Cryptocarya sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.48
+031_Fandriana,Cryptocarya sp. R. Br.,Cryptocarya sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.625
+032_Fandriana,Cryptocarya sp. R. Br.,Cryptocarya sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.543
+033_Fandriana,Cryptocarya sp. R. Br.,Cryptocarya sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.536
+034_Fandriana,Drypetes sp. Vahl,Drypetes sp.,Putranjivaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.735
+035_Fandriana,Drypetes sp. Vahl,Drypetes sp.,Putranjivaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.726
+036_Fandriana,Drypetes sp. Vahl,Drypetes sp.,Putranjivaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.704
+037_Fandriana,Drypetes sp. Vahl,Drypetes sp.,Putranjivaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.731
+038_Fandriana,Drypetes sp. Vahl,Drypetes sp.,Putranjivaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.568
+039_Fandriana,Drypetes sp. Vahl,Drypetes sp.,Putranjivaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.719
+040_Fandriana,Eugenia sp. L.,Eugenia sp.,Myrtaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.466
+041_Fandriana,Eugenia sp. L.,Eugenia sp.,Myrtaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.731
+042_Fandriana,Eugenia sp. L.,Eugenia sp.,Myrtaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.721
+043_Fandriana,Eugenia sp. L.,Eugenia sp.,Myrtaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.636
+044_Fandriana,Eugenia sp. L.,Eugenia sp.,Myrtaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.704
+045_Fandriana,Eugenia sp. L.,Eugenia sp.,Myrtaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.805
+046_Fandriana,Eugenia sp. L.,Eugenia sp.,Myrtaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.619
+047_Fandriana,Eugenia sp. L.,Eugenia sp.,Myrtaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.78
+048_Fandriana,Eugenia sp. L.,Eugenia sp.,Myrtaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.664
+049_Fandriana,Macaranga sp. Thouars,Macaranga sp.,Euphorbiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.438
+050_Fandriana,Macaranga sp. Thouars,Macaranga sp.,Euphorbiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.422
+051_Fandriana,Macaranga sp. Thouars,Macaranga sp.,Euphorbiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.312
+052_Fandriana,Macaranga sp. Thouars,Macaranga sp.,Euphorbiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.46
+053_Fandriana,Macaranga sp. Thouars,Macaranga sp.,Euphorbiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.388
+054_Fandriana,Macaranga sp. Thouars,Macaranga sp.,Euphorbiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.389
+055_Fandriana,Ocotea sp. Aubl.,Ocotea sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.586
+056_Fandriana,Ocotea sp. Aubl.,Ocotea sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.54
+057_Fandriana,Ocotea sp. Aubl.,Ocotea sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.523
+058_Fandriana,Ocotea sp. Aubl.,Ocotea sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.615
+059_Fandriana,Ocotea sp. Aubl.,Ocotea sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.672
+060_Fandriana,Ocotea sp. Aubl.,Ocotea sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.656
+061_Fandriana,Ocotea sp. Aubl.,Ocotea sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.647
+062_Fandriana,Ocotea sp. Aubl.,Ocotea sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.564
+063_Fandriana,Ocotea sp. Aubl.,Ocotea sp.,Lauraceae,Fandriana,Fiadanana,-20.454444,47.601389,0.621
+064_Fandriana,Schefflera sp. J.R. Forst. & G. Forst.,Schefflera sp.,Araliaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.438
+065_Fandriana,Schefflera sp. J.R. Forst. & G. Forst.,Schefflera sp.,Araliaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.538
+066_Fandriana,Schefflera sp. J.R. Forst. & G. Forst.,Schefflera sp.,Araliaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.522
+067_Fandriana,Schefflera sp. J.R. Forst. & G. Forst.,Schefflera sp.,Araliaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.487
+068_Fandriana,Schefflera sp. J.R. Forst. & G. Forst.,Schefflera sp.,Araliaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.528
+069_Fandriana,Schefflera sp. J.R. Forst. & G. Forst.,Schefflera sp.,Araliaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.552
+070_Fandriana,Schefflera sp. J.R. Forst. & G. Forst.,Schefflera sp.,Araliaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.508
+071_Fandriana,Schefflera sp. J.R. Forst. & G. Forst.,Schefflera sp.,Araliaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.526
+072_Fandriana,Schefflera sp. J.R. Forst. & G. Forst.,Schefflera sp.,Araliaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.475
+073_Fandriana,Symphonia sp. L. f.,Symphonia sp.,Clusiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.712
+074_Fandriana,Symphonia sp. L. f.,Symphonia sp.,Clusiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.67
+075_Fandriana,Symphonia sp. L. f.,Symphonia sp.,Clusiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.621
+076_Fandriana,Symphonia sp. L. f.,Symphonia sp.,Clusiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.679
+077_Fandriana,Symphonia sp. L. f.,Symphonia sp.,Clusiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.58
+078_Fandriana,Symphonia sp. L. f.,Symphonia sp.,Clusiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.597
+079_Fandriana,Symphonia sp. L. f.,Symphonia sp.,Clusiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.678
+080_Fandriana,Symphonia sp. L. f.,Symphonia sp.,Clusiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.547
+081_Fandriana,Symphonia sp. L. f.,Symphonia sp.,Clusiaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.729
+082_Fandriana,Weinmannia sp. L.,Weinmannia sp.,Cunoniaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.688
+083_Fandriana,Weinmannia sp. L.,Weinmannia sp.,Cunoniaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.54
+084_Fandriana,Weinmannia sp. L.,Weinmannia sp.,Cunoniaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.698
+085_Fandriana,Weinmannia sp. L.,Weinmannia sp.,Cunoniaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.608
+086_Fandriana,Weinmannia sp. L.,Weinmannia sp.,Cunoniaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.673
+087_Fandriana,Weinmannia sp. L.,Weinmannia sp.,Cunoniaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.665
+088_Fandriana,Weinmannia sp. L.,Weinmannia sp.,Cunoniaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.679
+089_Fandriana,Weinmannia sp. L.,Weinmannia sp.,Cunoniaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.559
+090_Fandriana,Weinmannia sp. L.,Weinmannia sp.,Cunoniaceae,Fandriana,Fiadanana,-20.454444,47.601389,0.659
+001_Fort-Dauphin Dry,Commiphora sp. Jacq.,Commiphora sp.,Burseraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.212
+002_Fort-Dauphin Dry,Commiphora lamii H. Perrier,Commiphora lamii,Burseraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.246
+003_Fort-Dauphin Dry,Commiphora simplicifolia H. Perrier,Commiphora simplicifolia,Burseraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.236
+004_Fort-Dauphin Dry,Commiphora simplicifolia H. Perrier,Commiphora simplicifolia,Burseraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.234
+005_Fort-Dauphin Dry,Commiphora lamii H. Perrier,Commiphora lamii,Burseraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.3
+006_Fort-Dauphin Dry,Commiphora simplicifolia H. Perrier,Commiphora simplicifolia,Burseraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.215
+007_Fort-Dauphin Dry,Commiphora simplicifolia H. Perrier,Commiphora simplicifolia,Burseraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.253
+008_Fort-Dauphin Dry,Commiphora lamii H. Perrier,Commiphora lamii,Burseraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.303
+009_Fort-Dauphin Dry,Commiphora simplicifolia H. Perrier,Commiphora simplicifolia,Burseraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.199
+010_Fort-Dauphin Dry,Euphorbia tirucalli L.,Euphorbia tirucalli,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.393
+011_Fort-Dauphin Dry,Euphorbia stenoclada Baill.,Euphorbia stenoclada,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.339
+012_Fort-Dauphin Dry,Euphorbia laro Drake,Euphorbia laro,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.4
+013_Fort-Dauphin Dry,Euphorbia tirucalli L.,Euphorbia tirucalli,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.311
+014_Fort-Dauphin Dry,Euphorbia stenoclada Baill.,Euphorbia stenoclada,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.424
+015_Fort-Dauphin Dry,Euphorbia laro Drake,Euphorbia laro,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.461
+016_Fort-Dauphin Dry,Euphorbia tirucalli L.,Euphorbia tirucalli,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.366
+017_Fort-Dauphin Dry,Euphorbia stenoclada Baill.,Euphorbia stenoclada,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.408
+018_Fort-Dauphin Dry,Euphorbia laro Drake,Euphorbia laro,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.453
+019_Fort-Dauphin Dry,Alluaudia procera (Drake) Drake,Alluaudia procera,Didieraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.271
+020_Fort-Dauphin Dry,Alluaudia dumosa (Drake) Drake,Alluaudia dumosa,Didieraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.39
+021_Fort-Dauphin Dry,Alluaudia procera (Drake) Drake,Alluaudia procera,Didieraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.2
+022_Fort-Dauphin Dry,Alluaudia procera (Drake) Drake,Alluaudia procera,Didieraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.256
+023_Fort-Dauphin Dry,Alluaudia dumosa (Drake) Drake,Alluaudia dumosa,Didieraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.416
+024_Fort-Dauphin Dry,Alluaudia procera (Drake) Drake,Alluaudia procera,Didieraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.272
+025_Fort-Dauphin Dry,Alluaudia procera (Drake) Drake,Alluaudia procera,Didieraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.263
+026_Fort-Dauphin Dry,Alluaudia dumosa (Drake) Drake,Alluaudia dumosa,Didieraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.426
+027_Fort-Dauphin Dry,Alluaudia procera (Drake) Drake,Alluaudia procera,Didieraceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.274
+028_Fort-Dauphin Dry,Cedrelopsis grevei Baill.,Cedrelopsis grevei,Meliaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.706
+029_Fort-Dauphin Dry,Cedrelopsis grevei Baill.,Cedrelopsis grevei,Meliaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.643
+030_Fort-Dauphin Dry,Cedrelopsis grevei Baill.,Cedrelopsis grevei,Meliaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.701
+031_Fort-Dauphin Dry,Cedrelopsis grevei Baill.,Cedrelopsis grevei,Meliaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.728
+032_Fort-Dauphin Dry,Cedrelopsis grevei Baill.,Cedrelopsis grevei,Meliaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.741
+033_Fort-Dauphin Dry,Cedrelopsis grevei Baill.,Cedrelopsis grevei,Meliaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.744
+034_Fort-Dauphin Dry,Cedrelopsis grevei Baill.,Cedrelopsis grevei,Meliaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.793
+035_Fort-Dauphin Dry,Cedrelopsis grevei Baill.,Cedrelopsis grevei,Meliaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.797
+036_Fort-Dauphin Dry,Cedrelopsis grevei Baill.,Cedrelopsis grevei,Meliaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.791
+037_Fort-Dauphin Dry,Gyrocarpus americanus Jacq.,Gyrocarpus americanus,Hernandiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.305
+038_Fort-Dauphin Dry,Gyrocarpus americanus Jacq.,Gyrocarpus americanus,Hernandiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.299
+039_Fort-Dauphin Dry,Gyrocarpus americanus Jacq.,Gyrocarpus americanus,Hernandiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.37
+040_Fort-Dauphin Dry,Gyrocarpus americanus Jacq.,Gyrocarpus americanus,Hernandiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.358
+041_Fort-Dauphin Dry,Gyrocarpus americanus Jacq.,Gyrocarpus americanus,Hernandiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.341
+042_Fort-Dauphin Dry,Gyrocarpus americanus Jacq.,Gyrocarpus americanus,Hernandiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.278
+043_Fort-Dauphin Dry,Gyrocarpus americanus Jacq.,Gyrocarpus americanus,Hernandiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.271
+044_Fort-Dauphin Dry,Gyrocarpus americanus Jacq.,Gyrocarpus americanus,Hernandiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.295
+045_Fort-Dauphin Dry,Gyrocarpus americanus Jacq.,Gyrocarpus americanus,Hernandiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.306
+046_Fort-Dauphin Dry,Terminalia disjuncta H. Perrier,Terminalia disjuncta,Combretaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.787
+047_Fort-Dauphin Dry,Terminalia mantaly H. Perrier,Terminalia mantaly,Combretaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.663
+048_Fort-Dauphin Dry,Terminalia mantaly H. Perrier,Terminalia mantaly,Combretaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.699
+049_Fort-Dauphin Dry,Terminalia disjuncta H. Perrier,Terminalia disjuncta,Combretaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.732
+050_Fort-Dauphin Dry,Terminalia mantaly H. Perrier,Terminalia mantaly,Combretaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.722
+051_Fort-Dauphin Dry,Terminalia mantaly H. Perrier,Terminalia mantaly,Combretaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.68
+052_Fort-Dauphin Dry,Terminalia mantaly H. Perrier,Terminalia mantaly,Combretaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.734
+053_Fort-Dauphin Dry,Terminalia mantaly H. Perrier,Terminalia mantaly,Combretaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.67
+054_Fort-Dauphin Dry,Terminalia disjuncta H. Perrier,Terminalia disjuncta,Combretaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.724
+055_Fort-Dauphin Dry,Grewia sp. L.,Grewia sp.,Malvaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.704
+056_Fort-Dauphin Dry,Grewia sp. L.,Grewia sp.,Malvaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.579
+057_Fort-Dauphin Dry,Grewia sp. L.,Grewia sp.,Malvaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.597
+058_Fort-Dauphin Dry,Grewia sp. L.,Grewia sp.,Malvaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.718
+059_Fort-Dauphin Dry,Grewia sp. L.,Grewia sp.,Malvaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.73
+060_Fort-Dauphin Dry,Grewia sp. L.,Grewia sp.,Malvaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.546
+061_Fort-Dauphin Dry,Grewia sp. L.,Grewia sp.,Malvaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.783
+062_Fort-Dauphin Dry,Grewia sp. L.,Grewia sp.,Malvaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.782
+063_Fort-Dauphin Dry,Grewia sp. L.,Grewia sp.,Malvaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.736
+064_Fort-Dauphin Dry,Securinega capuronii Leandri,Securinega capuronii,Phyllanthaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.773
+065_Fort-Dauphin Dry,Securinega capuronii Leandri,Securinega capuronii,Phyllanthaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.772
+066_Fort-Dauphin Dry,Securinega capuronii Leandri,Securinega capuronii,Phyllanthaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.79
+067_Fort-Dauphin Dry,Securinega capuronii Leandri,Securinega capuronii,Phyllanthaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.791
+068_Fort-Dauphin Dry,Securinega capuronii Leandri,Securinega capuronii,Phyllanthaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.77
+069_Fort-Dauphin Dry,Securinega capuronii Leandri,Securinega capuronii,Phyllanthaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.821
+070_Fort-Dauphin Dry,Securinega capuronii Leandri,Securinega capuronii,Phyllanthaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.861
+071_Fort-Dauphin Dry,Securinega capuronii Leandri,Securinega capuronii,Phyllanthaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.846
+072_Fort-Dauphin Dry,Securinega capuronii Leandri,Securinega capuronii,Phyllanthaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.812
+073_Fort-Dauphin Dry,Operculicarya decaryi H. Perrier,Operculicarya decaryi,Anacardiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.216
+074_Fort-Dauphin Dry,Operculicarya decaryi H. Perrier,Operculicarya decaryi,Anacardiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.18
+075_Fort-Dauphin Dry,Operculicarya decaryi H. Perrier,Operculicarya decaryi,Anacardiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.19
+076_Fort-Dauphin Dry,Operculicarya decaryi H. Perrier,Operculicarya decaryi,Anacardiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.286
+077_Fort-Dauphin Dry,Operculicarya decaryi H. Perrier,Operculicarya decaryi,Anacardiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.235
+078_Fort-Dauphin Dry,Operculicarya decaryi H. Perrier,Operculicarya decaryi,Anacardiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.248
+079_Fort-Dauphin Dry,Operculicarya decaryi H. Perrier,Operculicarya decaryi,Anacardiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.214
+080_Fort-Dauphin Dry,Operculicarya decaryi H. Perrier,Operculicarya decaryi,Anacardiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.22
+081_Fort-Dauphin Dry,Operculicarya decaryi H. Perrier,Operculicarya decaryi,Anacardiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.21
+082_Fort-Dauphin Dry,Albizia mahalao Capuron,Albizia mahalao,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.619
+083_Fort-Dauphin Dry,Albizia mahalao Capuron,Albizia mahalao,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.526
+084_Fort-Dauphin Dry,Albizia mahalao Capuron,Albizia mahalao,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.581
+085_Fort-Dauphin Dry,Albizia mahalao Capuron,Albizia mahalao,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.558
+086_Fort-Dauphin Dry,Albizia tulearensis R. Vig.,Albizia tulearensis,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.518
+087_Fort-Dauphin Dry,Albizia tulearensis R. Vig.,Albizia tulearensis,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.544
+088_Fort-Dauphin Dry,Albizia tulearensis R. Vig.,Albizia tulearensis,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.511
+089_Fort-Dauphin Dry,Albizia tulearensis R. Vig.,Albizia tulearensis,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.586
+090_Fort-Dauphin Dry,Albizia tulearensis R. Vig.,Albizia tulearensis,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.572
+091_Fort-Dauphin Dry,Pachypodium lamerei Drake,Pachypodium lamerei,Apocynaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.107
+092_Fort-Dauphin Dry,Pachypodium lamerei Drake,Pachypodium lamerei,Apocynaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.118
+093_Fort-Dauphin Dry,Pachypodium lamerei Drake,Pachypodium lamerei,Apocynaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.095
+096_Fort-Dauphin Dry,Pachypodium lamerei Drake,Pachypodium lamerei,Apocynaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.102
+097_Fort-Dauphin Dry,Pachypodium lamerei Drake,Pachypodium lamerei,Apocynaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.101
+098_Fort-Dauphin Dry,Pachypodium lamerei Drake,Pachypodium lamerei,Apocynaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.088
+100_Fort-Dauphin Dry,Strychnos madagascariensis Poir.,Strychnos madagascariensis,Loganiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.661
+101_Fort-Dauphin Dry,Strychnos madagascariensis Poir.,Strychnos madagascariensis,Loganiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.648
+102_Fort-Dauphin Dry,Strychnos madagascariensis Poir.,Strychnos madagascariensis,Loganiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.678
+103_Fort-Dauphin Dry,Strychnos madagascariensis Poir.,Strychnos madagascariensis,Loganiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.68
+104_Fort-Dauphin Dry,Strychnos decussata (Pappe) Gilg,Strychnos decussata,Loganiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.879
+105_Fort-Dauphin Dry,Strychnos madagascariensis Poir.,Strychnos madagascariensis,Loganiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.703
+106_Fort-Dauphin Dry,Strychnos madagascariensis Poir.,Strychnos madagascariensis,Loganiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.704
+107_Fort-Dauphin Dry,Strychnos decussata (Pappe) Gilg,Strychnos decussata,Loganiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.784
+108_Fort-Dauphin Dry,Strychnos madagascariensis Poir.,Strychnos madagascariensis,Loganiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.83
+109_Fort-Dauphin Dry,Dichrostachys dumetaria Villiers,Dichrostachys dumetaria,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.764
+110_Fort-Dauphin Dry,Dichrostachys dumetaria Villiers,Dichrostachys dumetaria,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.716
+111_Fort-Dauphin Dry,Dichrostachys dumetaria Villiers,Dichrostachys dumetaria,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.72
+112_Fort-Dauphin Dry,Dichrostachys dumetaria Villiers,Dichrostachys dumetaria,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.804
+113_Fort-Dauphin Dry,Dichrostachys dumetaria Villiers,Dichrostachys dumetaria,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.783
+114_Fort-Dauphin Dry,Dichrostachys dumetaria Villiers,Dichrostachys dumetaria,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.811
+115_Fort-Dauphin Dry,Dichrostachys dumetaria Villiers,Dichrostachys dumetaria,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.818
+116_Fort-Dauphin Dry,Dichrostachys dumetaria Villiers,Dichrostachys dumetaria,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.854
+117_Fort-Dauphin Dry,Dichrostachys dumetaria Villiers,Dichrostachys dumetaria,Fabaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.816
+118_Fort-Dauphin Dry,Croton sp. L.,Croton sp.,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.819
+119_Fort-Dauphin Dry,Croton sp. L.,Croton sp.,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.806
+120_Fort-Dauphin Dry,Croton sp. L.,Croton sp.,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.817
+121_Fort-Dauphin Dry,Croton sp. L.,Croton sp.,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.87
+122_Fort-Dauphin Dry,Croton sp. L.,Croton sp.,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.851
+123_Fort-Dauphin Dry,Croton sp. L.,Croton sp.,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.859
+124_Fort-Dauphin Dry,Croton sp. L.,Croton sp.,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.86
+125_Fort-Dauphin Dry,Croton sp. L.,Croton sp.,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.891
+126_Fort-Dauphin Dry,Croton sp. L.,Croton sp.,Euphorbiaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.882
+127_Fort-Dauphin Dry,Diospyros humbertiana H. Perrier,Diospyros humbertiana,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.766
+127_Fort-Dauphin Dry,Diospyros manampetsae H. Perrier,Diospyros manampetsae,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.766
+128_Fort-Dauphin Dry,Diospyros humbertiana H. Perrier,Diospyros humbertiana,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.706
+128_Fort-Dauphin Dry,Diospyros manampetsae H. Perrier,Diospyros manampetsae,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.706
+129_Fort-Dauphin Dry,Diospyros humbertiana H. Perrier,Diospyros humbertiana,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.744
+130_Fort-Dauphin Dry,Diospyros manampetsae H. Perrier,Diospyros manampetsae,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.894
+130_Fort-Dauphin Dry,Diospyros humbertiana H. Perrier,Diospyros humbertiana,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.894
+131_Fort-Dauphin Dry,Diospyros humbertiana H. Perrier,Diospyros humbertiana,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.726
+131_Fort-Dauphin Dry,Diospyros manampetsae H. Perrier,Diospyros manampetsae,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.726
+132_Fort-Dauphin Dry,Diospyros manampetsae H. Perrier,Diospyros manampetsae,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.845
+133_Fort-Dauphin Dry,Diospyros humbertiana H. Perrier,Diospyros humbertiana,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.799
+134_Fort-Dauphin Dry,Diospyros humbertiana H. Perrier,Diospyros humbertiana,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.71
+135_Fort-Dauphin Dry,Diospyros manampetsae H. Perrier,Diospyros manampetsae,Ebenaceae,Fort-Dauphin Dry,Manavy,-24.954722,45.753889,0.783
+001_Fort-Dauphin Wet,Uapaca thouarsii Baill.,Uapaca thouarsii,Phyllanthaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.613
+002_Fort-Dauphin Wet,Uapaca thouarsii Baill.,Uapaca thouarsii,Phyllanthaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.604
+003_Fort-Dauphin Wet,Uapaca thouarsii Baill.,Uapaca thouarsii,Phyllanthaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.727
+004_Fort-Dauphin Wet,Uapaca thouarsii Baill.,Uapaca thouarsii,Phyllanthaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.571
+005_Fort-Dauphin Wet,Uapaca thouarsii Baill.,Uapaca thouarsii,Phyllanthaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.555
+006_Fort-Dauphin Wet,Uapaca thouarsii Baill.,Uapaca thouarsii,Phyllanthaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.587
+007_Fort-Dauphin Wet,Uapaca thouarsii Baill.,Uapaca thouarsii,Phyllanthaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.603
+008_Fort-Dauphin Wet,Uapaca thouarsii Baill.,Uapaca thouarsii,Phyllanthaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.565
+009_Fort-Dauphin Wet,Uapaca thouarsii Baill.,Uapaca thouarsii,Phyllanthaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.591
+010_Fort-Dauphin Wet,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.559
+011_Fort-Dauphin Wet,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.491
+012_Fort-Dauphin Wet,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.482
+013_Fort-Dauphin Wet,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.551
+014_Fort-Dauphin Wet,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.524
+015_Fort-Dauphin Wet,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.493
+016_Fort-Dauphin Wet,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.494
+017_Fort-Dauphin Wet,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.517
+018_Fort-Dauphin Wet,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.475
+019_Fort-Dauphin Wet,Deinbollia sp. Schumach.,Deinbollia sp.,Sapindaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.456
+020_Fort-Dauphin Wet,Deinbollia sp. Schumach.,Deinbollia sp.,Sapindaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.583
+021_Fort-Dauphin Wet,Deinbollia sp. Schumach.,Deinbollia sp.,Sapindaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.569
+022_Fort-Dauphin Wet,Deinbollia sp. Schumach.,Deinbollia sp.,Sapindaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.457
+023_Fort-Dauphin Wet,Deinbollia sp. Schumach.,Deinbollia sp.,Sapindaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.666
+024_Fort-Dauphin Wet,Deinbollia sp. Schumach.,Deinbollia sp.,Sapindaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.658
+025_Fort-Dauphin Wet,Deinbollia sp. Schumach.,Deinbollia sp.,Sapindaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.545
+026_Fort-Dauphin Wet,Weinmannia sp. L.,Weinmannia sp.,Cunoniaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.554
+027_Fort-Dauphin Wet,Deinbollia sp. Schumach.,Deinbollia sp.,Sapindaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.56
+028_Fort-Dauphin Wet,Hyperacanthus sp. E. Mey. ex Bridson,Hyperacanthus sp.,Rubiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.639
+029_Fort-Dauphin Wet,Hyperacanthus sp. E. Mey. ex Bridson,Hyperacanthus sp.,Rubiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.681
+030_Fort-Dauphin Wet,Hyperacanthus sp. E. Mey. ex Bridson,Hyperacanthus sp.,Rubiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.706
+031_Fort-Dauphin Wet,Hyperacanthus sp. E. Mey. ex Bridson,Hyperacanthus sp.,Rubiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.719
+032_Fort-Dauphin Wet,Hyperacanthus sp. E. Mey. ex Bridson,Hyperacanthus sp.,Rubiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.589
+033_Fort-Dauphin Wet,Hyperacanthus sp. E. Mey. ex Bridson,Hyperacanthus sp.,Rubiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.654
+034_Fort-Dauphin Wet,Hyperacanthus sp. E. Mey. ex Bridson,Hyperacanthus sp.,Rubiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.896
+035_Fort-Dauphin Wet,Hyperacanthus sp. E. Mey. ex Bridson,Hyperacanthus sp.,Rubiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.645
+036_Fort-Dauphin Wet,Hyperacanthus sp. E. Mey. ex Bridson,Hyperacanthus sp.,Rubiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.679
+037_Fort-Dauphin Wet,Tambourissa thouvenotii Danguy,Tambourissa thouvenotii,Monimiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.5
+038_Fort-Dauphin Wet,Tambourissa thouvenotii Danguy,Tambourissa thouvenotii,Monimiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.466
+039_Fort-Dauphin Wet,Tambourissa thouvenotii Danguy,Tambourissa thouvenotii,Monimiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.566
+040_Fort-Dauphin Wet,Tambourissa thouvenotii Danguy,Tambourissa thouvenotii,Monimiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.524
+041_Fort-Dauphin Wet,Tambourissa thouvenotii Danguy,Tambourissa thouvenotii,Monimiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.574
+042_Fort-Dauphin Wet,Tambourissa thouvenotii Danguy,Tambourissa thouvenotii,Monimiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.482
+043_Fort-Dauphin Wet,Tambourissa thouvenotii Danguy,Tambourissa thouvenotii,Monimiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.478
+044_Fort-Dauphin Wet,Tambourissa thouvenotii Danguy,Tambourissa thouvenotii,Monimiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.49
+045_Fort-Dauphin Wet,Tambourissa thouvenotii Danguy,Tambourissa thouvenotii,Monimiaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.506
+046_Fort-Dauphin Wet,Albizia sp. Durraz,Albizia sp.,Fabaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.645
+047_Fort-Dauphin Wet,Albizia sp. Durraz,Albizia sp.,Fabaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.688
+048_Fort-Dauphin Wet,Albizia sp. Durraz,Albizia sp.,Fabaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.621
+049_Fort-Dauphin Wet,Albizia sp. Durraz,Albizia sp.,Fabaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.665
+050_Fort-Dauphin Wet,Albizia sp. Durraz,Albizia sp.,Fabaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.709
+051_Fort-Dauphin Wet,Albizia sp. Durraz,Albizia sp.,Fabaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.672
+052_Fort-Dauphin Wet,Albizia sp. Durraz,Albizia sp.,Fabaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.627
+053_Fort-Dauphin Wet,Albizia sp. Durraz,Albizia sp.,Fabaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.647
+054_Fort-Dauphin Wet,Albizia sp. Durraz,Albizia sp.,Fabaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.632
+055_Fort-Dauphin Wet,Brochoneura madagascariensis (Lam.) Warb.,Brochoneura madagascariensis,Myristicaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.496
+056_Fort-Dauphin Wet,Brochoneura madagascariensis (Lam.) Warb.,Brochoneura madagascariensis,Myristicaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.451
+057_Fort-Dauphin Wet,Brochoneura madagascariensis (Lam.) Warb.,Brochoneura madagascariensis,Myristicaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.478
+058_Fort-Dauphin Wet,Brochoneura madagascariensis (Lam.) Warb.,Brochoneura madagascariensis,Myristicaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.481
+059_Fort-Dauphin Wet,Brochoneura madagascariensis (Lam.) Warb.,Brochoneura madagascariensis,Myristicaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.48
+060_Fort-Dauphin Wet,Brochoneura madagascariensis (Lam.) Warb.,Brochoneura madagascariensis,Myristicaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.54
+061_Fort-Dauphin Wet,Brochoneura madagascariensis (Lam.) Warb.,Brochoneura madagascariensis,Myristicaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.518
+062_Fort-Dauphin Wet,Brochoneura madagascariensis (Lam.) Warb.,Brochoneura madagascariensis,Myristicaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.578
+063_Fort-Dauphin Wet,Brochoneura madagascariensis (Lam.) Warb.,Brochoneura madagascariensis,Myristicaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.52
+064_Fort-Dauphin Wet,Erythroxylum sphaeranthum H. Perrier,Erythroxylum sphaeranthum,Erythroxylaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.692
+065_Fort-Dauphin Wet,Erythroxylum sphaeranthum H. Perrier,Erythroxylum sphaeranthum,Erythroxylaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.749
+066_Fort-Dauphin Wet,Erythroxylum sphaeranthum H. Perrier,Erythroxylum sphaeranthum,Erythroxylaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.727
+067_Fort-Dauphin Wet,Erythroxylum sphaeranthum H. Perrier,Erythroxylum sphaeranthum,Erythroxylaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.702
+068_Fort-Dauphin Wet,Erythroxylum sphaeranthum H. Perrier,Erythroxylum sphaeranthum,Erythroxylaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.623
+069_Fort-Dauphin Wet,Erythroxylum sphaeranthum H. Perrier,Erythroxylum sphaeranthum,Erythroxylaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.663
+070_Fort-Dauphin Wet,Erythroxylum sphaeranthum H. Perrier,Erythroxylum sphaeranthum,Erythroxylaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.628
+071_Fort-Dauphin Wet,Erythroxylum sphaeranthum H. Perrier,Erythroxylum sphaeranthum,Erythroxylaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.711
+072_Fort-Dauphin Wet,Erythroxylum sphaeranthum H. Perrier,Erythroxylum sphaeranthum,Erythroxylaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.656
+073_Fort-Dauphin Wet,Streblus dimepate (Bureau) C.C. Berg,Streblus dimepate,Moraceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.648
+074_Fort-Dauphin Wet,Streblus dimepate (Bureau) C.C. Berg,Streblus dimepate,Moraceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.659
+075_Fort-Dauphin Wet,Streblus dimepate (Bureau) C.C. Berg,Streblus dimepate,Moraceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.651
+076_Fort-Dauphin Wet,Streblus dimepate (Bureau) C.C. Berg,Streblus dimepate,Moraceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.635
+077_Fort-Dauphin Wet,Streblus dimepate (Bureau) C.C. Berg,Streblus dimepate,Moraceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.553
+078_Fort-Dauphin Wet,Streblus dimepate (Bureau) C.C. Berg,Streblus dimepate,Moraceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.627
+079_Fort-Dauphin Wet,Streblus dimepate (Bureau) C.C. Berg,Streblus dimepate,Moraceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.619
+080_Fort-Dauphin Wet,Streblus dimepate (Bureau) C.C. Berg,Streblus dimepate,Moraceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.649
+081_Fort-Dauphin Wet,Streblus dimepate (Bureau) C.C. Berg,Streblus dimepate,Moraceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.643
+082_Fort-Dauphin Wet,Mammea sp. L.,Mammea sp.,Calophyllaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.679
+083_Fort-Dauphin Wet,Mammea sp. L.,Mammea sp.,Calophyllaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.685
+084_Fort-Dauphin Wet,Mammea sp. L.,Mammea sp.,Calophyllaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.644
+085_Fort-Dauphin Wet,Mammea sp. L.,Mammea sp.,Calophyllaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.702
+086_Fort-Dauphin Wet,Mammea sp. L.,Mammea sp.,Calophyllaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.651
+087_Fort-Dauphin Wet,Mammea sp. L.,Mammea sp.,Calophyllaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.671
+088_Fort-Dauphin Wet,Mammea sp. L.,Mammea sp.,Calophyllaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.673
+089_Fort-Dauphin Wet,Mammea sp. L.,Mammea sp.,Calophyllaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.637
+090_Fort-Dauphin Wet,Mammea sp. L.,Mammea sp.,Calophyllaceae,Fort-Dauphin Wet,Beampingaratra,-24.475278,46.899722,0.684
+001_Ivohibe,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.538
+002_Ivohibe,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.494
+003_Ivohibe,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.496
+004_Ivohibe,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.519
+005_Ivohibe,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.521
+006_Ivohibe,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.499
+007_Ivohibe,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.497
+008_Ivohibe,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.49
+009_Ivohibe,Chrysophyllum boivinianum (Pierre) Baehni,Chrysophyllum boivinianum,Sapotaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.478
+010_Ivohibe,Cryptocarya ovalifolia (Danguy) van der Werff,Cryptocarya ovalifolia,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.519
+011_Ivohibe,Cryptocarya ovalifolia (Danguy) van der Werff,Cryptocarya ovalifolia,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.525
+012_Ivohibe,Cryptocarya ovalifolia (Danguy) van der Werff,Cryptocarya ovalifolia,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.511
+013_Ivohibe,Cryptocarya sp. R. Br.,Cryptocarya sp.,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.584
+014_Ivohibe,Cryptocarya ovalifolia (Danguy) van der Werff,Cryptocarya ovalifolia,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.559
+015_Ivohibe,Cryptocarya ovalifolia (Danguy) van der Werff,Cryptocarya ovalifolia,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.521
+016_Ivohibe,Cryptocarya sp. R. Br.,Cryptocarya sp.,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.63
+017_Ivohibe,Cryptocarya ovalifolia (Danguy) van der Werff,Cryptocarya ovalifolia,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.541
+018_Ivohibe,Cryptocarya ovalifolia (Danguy) van der Werff,Cryptocarya ovalifolia,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.531
+019_Ivohibe,Ficus sp. L.,Ficus sp.,Moraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.461
+020_Ivohibe,Ficus sp. L.,Ficus sp.,Moraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.463
+021_Ivohibe,Psorospermum androsaemifolium Baker,Psorospermum androsaemifolium,Hypericaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.684
+022_Ivohibe,Ficus soroceoides Baker,Ficus soroceoides,Moraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.538
+023_Ivohibe,Ficus soroceoides Baker,Ficus soroceoides,Moraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.531
+024_Ivohibe,Ficus soroceoides Baker,Ficus soroceoides,Moraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.518
+025_Ivohibe,Ficus tiliifolia Baker,Ficus tiliifolia,Moraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.454
+026_Ivohibe,Ficus soroceoides Baker,Ficus soroceoides,Moraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.532
+027_Ivohibe,Ficus sp. L.,Ficus sp.,Moraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.445
+028_Ivohibe,Grewia apetala Juss.,Grewia apetala,Malvaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.379
+029_Ivohibe,Grewia apetala Juss.,Grewia apetala,Malvaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.326
+030_Ivohibe,Grewia apetala Juss.,Grewia apetala,Malvaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.364
+031_Ivohibe,Dombeya sp. Cav.,Dombeya sp.,Malvaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.275
+032_Ivohibe,Dombeya sp. Cav.,Dombeya sp.,Malvaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.259
+033_Ivohibe,Dombeya sp. Cav.,Dombeya sp.,Malvaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.273
+034_Ivohibe,Dombeya sp. Cav.,Dombeya sp.,Malvaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.257
+035_Ivohibe,Dombeya sp. Cav.,Dombeya sp.,Malvaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.256
+036_Ivohibe,Dombeya sp. Cav.,Dombeya sp.,Malvaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.292
+037_Ivohibe,Harungana madagascariensis (Lam. ex Poir.) Choisy,Harungana madagascariensis,Hypericaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.468
+038_Ivohibe,Harungana madagascariensis (Lam. ex Poir.) Choisy,Harungana madagascariensis,Hypericaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.469
+039_Ivohibe,Harungana madagascariensis (Lam. ex Poir.) Choisy,Harungana madagascariensis,Hypericaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.475
+040_Ivohibe,Harungana madagascariensis (Lam. ex Poir.) Choisy,Harungana madagascariensis,Hypericaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.48
+041_Ivohibe,Harungana madagascariensis (Lam. ex Poir.) Choisy,Harungana madagascariensis,Hypericaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.482
+042_Ivohibe,Harungana madagascariensis (Lam. ex Poir.) Choisy,Harungana madagascariensis,Hypericaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.456
+043_Ivohibe,Harungana madagascariensis (Lam. ex Poir.) Choisy,Harungana madagascariensis,Hypericaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.491
+044_Ivohibe,Harungana madagascariensis (Lam. ex Poir.) Choisy,Harungana madagascariensis,Hypericaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.454
+045_Ivohibe,Harungana madagascariensis (Lam. ex Poir.) Choisy,Harungana madagascariensis,Hypericaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.466
+046_Ivohibe,Homalium sp. Jacq.,Homalium sp.,Salicaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.783
+047_Ivohibe,Homalium sp. Jacq.,Homalium sp.,Salicaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.743
+048_Ivohibe,Homalium sp. Jacq.,Homalium sp.,Salicaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.754
+049_Ivohibe,Homalium sp. Jacq.,Homalium sp.,Salicaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.771
+050_Ivohibe,Homalium sp. Jacq.,Homalium sp.,Salicaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.782
+051_Ivohibe,Homalium sp. Jacq.,Homalium sp.,Salicaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.781
+052_Ivohibe,Homalium sp. Jacq.,Homalium sp.,Salicaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.773
+053_Ivohibe,Homalium sp. Jacq.,Homalium sp.,Salicaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.768
+054_Ivohibe,Homalium sp. Jacq.,Homalium sp.,Salicaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.804
+055_Ivohibe,Macaranga macropoda Baker,Macaranga macropoda,Euphorbiaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.413
+056_Ivohibe,Macaranga macropoda Baker,Macaranga macropoda,Euphorbiaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.406
+057_Ivohibe,Macaranga macropoda Baker,Macaranga macropoda,Euphorbiaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.392
+058_Ivohibe,Macaranga macropoda Baker,Macaranga macropoda,Euphorbiaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.397
+059_Ivohibe,Macaranga macropoda Baker,Macaranga macropoda,Euphorbiaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.441
+060_Ivohibe,Macaranga macropoda Baker,Macaranga macropoda,Euphorbiaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.405
+061_Ivohibe,Macaranga macropoda Baker,Macaranga macropoda,Euphorbiaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.407
+062_Ivohibe,Macaranga macropoda Baker,Macaranga macropoda,Euphorbiaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.434
+063_Ivohibe,Macaranga macropoda Baker,Macaranga macropoda,Euphorbiaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.438
+064_Ivohibe,Ocotea racemosa (Danguy) Kosterm.,Ocotea racemosa,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.572
+065_Ivohibe,Ocotea racemosa (Danguy) Kosterm.,Ocotea racemosa,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.548
+066_Ivohibe,Ocotea racemosa (Danguy) Kosterm.,Ocotea racemosa,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.525
+067_Ivohibe,Ocotea cymosa (Nees) Palacky,Ocotea cymosa,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.541
+068_Ivohibe,Ocotea racemosa (Danguy) Kosterm.,Ocotea racemosa,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.551
+069_Ivohibe,Ocotea racemosa (Danguy) Kosterm.,Ocotea racemosa,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.561
+070_Ivohibe,Ocotea cymosa (Nees) Palacky,Ocotea cymosa,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.554
+071_Ivohibe,Ocotea cymosa (Nees) Palacky,Ocotea cymosa,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.529
+072_Ivohibe,Ocotea cymosa (Nees) Palacky,Ocotea cymosa,Lauraceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.539
+073_Ivohibe,Mascarenhasia arborescens A. DC.,Mascarenhasia arborescens,Apocynaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.633
+074_Ivohibe,Mascarenhasia arborescens A. DC.,Mascarenhasia arborescens,Apocynaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.647
+075_Ivohibe,Weinmannia bojeriana Tul.,Weinmannia bojeriana,Cunoniaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.569
+076_Ivohibe,Mammea sp. L.,Mammea sp.,Calophyllaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.691
+077_Ivohibe,Mammea sp. L.,Mammea sp.,Calophyllaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.687
+078_Ivohibe,Mammea sp. L.,Mammea sp.,Calophyllaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.681
+079_Ivohibe,Mammea sp. L.,Mammea sp.,Calophyllaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.658
+080_Ivohibe,Weinmannia bojeriana Tul.,Weinmannia bojeriana,Cunoniaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.604
+081_Ivohibe,Mammea sp. L.,Mammea sp.,Calophyllaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.664
+082_Ivohibe,Syzygium emirnense (Baker) Labat & G.E. Schatz,Syzygium emirnense,Myrtaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.642
+083_Ivohibe,Syzygium emirnense (Baker) Labat & G.E. Schatz,Syzygium emirnense,Myrtaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.697
+084_Ivohibe,Syzygium emirnense (Baker) Labat & G.E. Schatz,Syzygium emirnense,Myrtaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.642
+085_Ivohibe,Syzygium emirnense (Baker) Labat & G.E. Schatz,Syzygium emirnense,Myrtaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.686
+086_Ivohibe,Syzygium emirnense (Baker) Labat & G.E. Schatz,Syzygium emirnense,Myrtaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.703
+087_Ivohibe,Syzygium emirnense (Baker) Labat & G.E. Schatz,Syzygium emirnense,Myrtaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.696
+088_Ivohibe,Syzygium emirnense (Baker) Labat & G.E. Schatz,Syzygium emirnense,Myrtaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.699
+089_Ivohibe,Syzygium sp. P. Browne ex Gaertn.,Syzygium sp.,Myrtaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.645
+090_Ivohibe,Syzygium emirnense (Baker) Labat & G.E. Schatz,Syzygium emirnense,Myrtaceae,Ivohibe,Sakaroa,-22.439167,46.989722,0.695

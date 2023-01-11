@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = ldAGB ~ I(log(DBH^2 * Htot * exp(lrho))), data = Data.AGB)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-1.20814 -0.17697  0.01116  0.17631  0.92100 
+
+Coefficients:
+                                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                      -2.15126    0.09269  -23.21   <2e-16 ***
+I(log(DBH^2 * Htot * exp(lrho)))  0.90821    0.01155   78.61   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.2951 on 334 degrees of freedom
+Multiple R-squared:  0.9487,	Adjusted R-squared:  0.9486 
+F-statistic:  6180 on 1 and 334 DF,  p-value: < 2.2e-16
+

@@ -1,0 +1,20 @@
+
+Call:
+lm(formula = ldAGB ~ lD + lrho, data = Data.AGB)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.88575 -0.20013 -0.02615  0.17137  1.15790 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -0.84769    0.10981  -7.719 2.83e-12 ***
+lD           2.11799    0.06459  32.792  < 2e-16 ***
+lrho         1.37151    0.06041  22.703  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.3396 on 129 degrees of freedom
+Multiple R-squared:  0.8958,	Adjusted R-squared:  0.8941 
+F-statistic: 554.2 on 2 and 129 DF,  p-value: < 2.2e-16
+

@@ -1,0 +1,15 @@
+$Bealanana
+[1] 10.2 54.0
+
+$Fandriana
+[1]  6.369427 35.031847
+
+$`Fort-Dauphin-Dry`
+[1]  2.705634 31.830989
+
+$`Fort-Dauphin-Moist`
+[1]  9 37
+
+$Ivohibe
+[1]  6 36
+
